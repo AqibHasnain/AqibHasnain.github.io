@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD student in the Department of Mechanical Engineering at University of California, Santa Barbara. I am advised by Professor Enoch Yeung where together we work on developing and applying operator-theoretic, data-driven algorithms to transcriptomics for characterizing the network architecture of bacteria as they perform computation.
 
-Title -- in progress # this is how you make a new section it seems
+Title -- in progress 
 ======
 Here you can find a list of my publications with downloadable pdf's. You can also find a list of of talks I've given at conferences throughout the world and the locations of the venues on a map. 
 
