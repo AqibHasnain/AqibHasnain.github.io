@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=LeritCoAAAAJ&hl=en"
-  email            : "[mailto](mailto:aqib@ucsb.edu)"
+  email            : "[aqib@ucsb.edu](aqib@ucsb.edu)"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
