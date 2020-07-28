@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Aqib Hasnain"
-  avatar           : "AqibProfessional.jpeg"
+  avatar           : "AqibProfessional2.jpg" #"AqibProfessional.jpeg"
   bio              : "PhD student at University of California, Santa Barbara with interests in ML, Sys ID, and SynBio"
   location         : "Santa Barbara, California"
   employer         :
