@@ -12,4 +12,4 @@ We study the buoyant displacement flow of two immiscible Newtonian fluids in an 
 
 [Download paper here](http://aqibhasnain.github.io/files/oladasu2019density.pdf)
 
-O. Oladasu, A. Hasnain, ..., K. Alba. (2019) Density-stable displacement flow of immiscible fluids in inclined pipes. &quot;.&quot; <i>Physical Review Fluids</i>. 4, 4 (044007)..
+O. Oladasu, A. Hasnain, ..., K. Alba. (2019) &quot; Density-stable displacement flow of immiscible fluids in inclined pipes. &quot; <i>Physical Review Fluids</i>. 4, 4 (044007)..
