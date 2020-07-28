@@ -12,4 +12,4 @@ We show how Koopman operators can be used to quantify impact on genetic circuits
 
 [Download paper here](http://aqibhasnain.github.io/files/hasnain2020impact.pdf)
 
-Recommended citation: A. Hasnain, ..., E. Yeung. (2019). &quot;A data-driven method for quantifying the impact of a genetic circuit on its host.&quot; <i>2019 IEEE Biomedical Circuits and Systems Conference</i>. 1-4.
+A. Hasnain, ..., E. Yeung. (2019). &quot;A data-driven method for quantifying the impact of a genetic circuit on its host.&quot; <i>2019 IEEE Biomedical Circuits and Systems Conference</i>. 1-4.

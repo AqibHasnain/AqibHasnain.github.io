@@ -12,4 +12,4 @@ We seek to develop generalized identifiability conditions for informing the desi
 
 [Download paper here](http://aqibhasnain.github.io/files/boddupalli2019koopman.pdf)
 
-Recommended citation: N. Boddupalli, A. Hasnain,  E. Yeung. (2019). &quot;Koopman Operators for Generalized Persistence of Excitation Conditions for Nonlinear Systems.&quot; <i>2019 IEEE Conference on Decision and Control</i>. 8106-8111.
+N. Boddupalli, A. Hasnain,  E. Yeung. (2019). &quot;Koopman Operators for Generalized Persistence of Excitation Conditions for Nonlinear Systems.&quot; <i>2019 IEEE Conference on Decision and Control</i>. 8106-8111.

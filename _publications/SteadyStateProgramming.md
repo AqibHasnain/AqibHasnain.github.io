@@ -12,4 +12,4 @@ citation: 'A. Hasnain, N. Boddupalli, E. Yeung. (2020). &quot;Steady state progr
 
 [Download paper here](http://aqibhasnain.github.io/files/hasnain2020steady.pdf)
 
-Recommended citation: A. Hasnain, N. Boddupalli, E. Yeung. (2020). &quot;Steady state programming of controlled nonlinear systems via deep dynamic mode decomposition.&quot; <i>2020 IEEE American Control Conference</i>. arXiv preprint arXiv:1909.13385.
+A. Hasnain, N. Boddupalli, E. Yeung. (2020). &quot;Steady state programming of controlled nonlinear systems via deep dynamic mode decomposition.&quot; <i>2020 IEEE American Control Conference</i>. arXiv preprint arXiv:1909.13385.

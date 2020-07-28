@@ -12,4 +12,4 @@ In biological organisms, genetic activity is often highly nonlinear, making it d
 
 [Download paper here](http://aqibhasnain.github.io/files/hasnain2020optimal.pdf)
 
-Recommended citation: A. Hasnain, N. Boddupalli, E. Yeung. (2019). &quot;Optimal reporter placement in sparsely measured genetic networks using the Koopman operator.&quot; <i>2019 IEEE Conference on Decision and Control</i>. 19-24.
+A. Hasnain, N. Boddupalli, E. Yeung. (2019). &quot;Optimal reporter placement in sparsely measured genetic networks using the Koopman operator.&quot; <i>2019 IEEE Conference on Decision and Control</i>. 19-24.

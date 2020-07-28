@@ -12,4 +12,4 @@ We consider the problem of learning a predictive model for population cell growt
 
 [Download paper here](http://aqibhasnain.github.io/files/balakrishnan2020prediction.pdf)
 
-Recommended citation: S. Balakrishnan, A. Hasnain, ..., E. Yeung. (2020). &quot;Prediction of fitness in bacteria with causal jump dynamic mode decomposition.&quot; <i>2020 IEEE American Control Conference</i>. arXiv preprint arXiv:2006.12726.
+S. Balakrishnan, A. Hasnain, ..., E. Yeung. (2020). &quot;Prediction of fitness in bacteria with causal jump dynamic mode decomposition.&quot; <i>2020 IEEE American Control Conference</i>. arXiv preprint arXiv:2006.12726.
